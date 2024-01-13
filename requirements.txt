@@ -1,0 +1,10 @@
+tensorflow
+torch==1.13.1
+javalang
+gdown
+transformers==4.35.2
+dill
+nltk
+scikit-learn
+gpytorch
+# torchwordemb
